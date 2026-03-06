@@ -12,7 +12,7 @@ This repository contains the Python scripts used for image generation and Elo ra
 - elo_rating/
   - elo_rating_model.py
   - elo_rating_statement_value.py
-  - result_final.csv
+  - results_final.csv
 
 ## Image Generation
 
